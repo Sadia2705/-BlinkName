@@ -18,7 +18,6 @@ void loop() {
     digitalWrite(LED, LOW);
     delay(5000);
     
-    
     digitalWrite(LED, HIGH);
     delay(500);
     digitalWrite(LED, LOW);
@@ -46,4 +45,19 @@ void loop() {
     digitalWrite(LED, LOW);
     delay(50);
     digitalWrite(LED, HIGH);
+    delay(500);
+    digitalWrite(LED, LOW);
+    delay(5000);
+    
+    digitalWrite(LED, HIGH);
+    delay(500);
+    digitalWrite(LED, LOW);
+    delay(50);
+    digitalWrite(LED, HIGH);
+    delay(1000);
+    digitalWrite(LED, LOW);
+    delay(5000);
+    }
+    
+    
 Ready.Last Event: particle/device/updates/forced = false sadia  v1.4.4 2
